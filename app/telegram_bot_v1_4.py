@@ -11,7 +11,7 @@ import re
 
 # Define categories
 INCOME_CATEGORIES = ['Salary', 'Investment', 'Bonus', 'Other']
-EXPENSE_CATEGORIES = ['Food', 'Utilities', 'Shopping', 'Medical', 'Travel', 'Groceries', 'Entertainment', 'Investments', 'Other']
+EXPENSE_CATEGORIES = ['Food', 'Utilities', 'Shopping', 'Medical', 'Travel', 'Groceries', 'Entertainment', 'Investments', 'Loans', 'Other']
 
 # Define stages
 #START, AMOUNT, TYPE, CATEGORY, DESCRIPTION = range(5)
